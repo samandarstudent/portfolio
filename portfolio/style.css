@@ -1,0 +1,17 @@
+span {
+    margin: 0 2px;
+}
+img {
+    margin-right: 5px;
+}
+.img2 {
+    display: flex;
+    justify-content: space-between;
+}
+.conatainer{
+    max-width: 60%;
+    margin: 0 auto;
+    background-color: rgb(199, 204, 208);
+    padding: 20px;  
+}
+w
